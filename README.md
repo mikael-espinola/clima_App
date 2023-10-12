@@ -1,5 +1,5 @@
 # O clima
-Desenvido uma aplicação para manipulação de DOM e consumindo API com o intuito de criar um App para a previsão do tempo. 
+Desenvolvida uma aplicação para manipulação de DOM e consumo de API com o intuito de criar um App para a previsão do tempo. 
 
 Os usuários terão as seguintes informações da cidade que definir:
 
